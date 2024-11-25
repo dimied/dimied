@@ -2,7 +2,8 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning microservices, opengl/shaders, automated QA
 - 💞️ I’m looking to collaborate on web development and computer graphics
-- 📫 How to reach me (TODO: later)
+- 📫 How to reach me (LinkedIn, XING)
+- I speak german, russian, english
 
 <!---
 dimied/dimied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
